@@ -1,7 +1,6 @@
 import { useState } from "react";
 import {
   ArrowDown,
-  ArrowRight,
   ArrowUpRight,
   BriefcaseBusiness,
   Check,
